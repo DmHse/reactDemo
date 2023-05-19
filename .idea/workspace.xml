@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fb8f948-4246-46b1-aa95-2bf61c62d871" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.umirc.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="50" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/layouts/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="1710" selection-start-line="1710" selection-end-line="1710" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#319#531#0" expanded="true" />
+                <element signature="e#159#301#0" />
+                <element signature="e#367#446#0" />
+                <element signature="e#661#740#0" />
+                <element signature="e#1657#1765#0" />
+                <element signature="e#1858#1883#0" />
+                <element signature="e#1925#1950#0" />
+                <element signature="e#2061#2262#0" />
+                <element signature="e#2440#2541#0" />
+                <element signature="e#2841#2942#0" />
+                <element signature="e#2583#3990#0" />
+                <element signature="e#1536#3786#0" />
+                <element signature="e#1697#3018#0" />
+                <element signature="e#12171#12246#0" />
+                <element signature="e#12273#21380#0" />
+                <element signature="e#5951#12029#0" />
+                <element signature="e#21419#21593#0" />
+                <element signature="e#21650#21729#0" />
+                <element signature="e#21764#22599#0" />
+                <element signature="e#21776#22083#0" />
+                <element signature="e#13726#14141#0" />
+                <element signature="e#22688#23197#0" />
+                <element signature="e#23238#27093#0" />
+                <element signature="e#23316#23920#0" />
+                <element signature="e#28432#53619#0" />
+                <element signature="e#28677#28786#0" />
+                <element signature="e#28982#35874#0" />
+                <element signature="e#29056#29288#0" />
+                <element signature="e#28989#29612#0" />
+                <element signature="e#29653#29751#0" />
+                <element signature="e#30897#32442#0" />
+                <element signature="e#31568#31666#0" />
+                <element signature="e#32727#33144#0" />
+                <element signature="e#32002#32256#0" />
+                <element signature="e#32328#32506#0" />
+                <element signature="e#36196#43380#0" />
+                <element signature="e#43108#50292#0" />
+                <element signature="e#50022#57206#0" />
+                <element signature="e#50096#50292#0" />
+                <element signature="e#56935#64119#0" />
+                <element signature="e#54475#55238#0" />
+                <element signature="e#54603#54990#0" />
+                <element signature="e#55975#56569#0" />
+                <element signature="e#56700#56833#0" />
+                <element signature="e#57194#58653#0" />
+                <element signature="e#57206#57490#0" />
+                <element signature="e#57525#58281#0" />
+                <element signature="e#57536#58194#0" />
+                <element signature="e#58326#58516#0" />
+                <element signature="e#58711#60170#0" />
+                <element signature="e#58723#59007#0" />
+                <element signature="e#59047#59705#0" />
+                <element signature="e#60212#60496#0" />
+                <element signature="e#60531#61287#0" />
+                <element signature="e#60547#61205#0" />
+                <element signature="e#61320#61624#0" />
+                <element signature="e#61332#61522#0" />
+                <element signature="e#62066#62370#0" />
+                <element signature="e#65920#68068#0" />
+                <element signature="e#66007#66374#0" />
+                <element signature="e#68711#69079#0" />
+                <element signature="e#71415#71783#0" />
+                <element signature="e#75688#75829#0" />
+                <element signature="e#75568#75818#0" />
+                <element signature="e#76980#77121#0" />
+                <element signature="e#77172#77442#0" />
+                <element signature="e#78276#78417#0" />
+                <element signature="e#78468#78738#0" />
+                <element signature="e#79572#79713#0" />
+                <element signature="e#79764#80034#0" />
+                <element signature="e#80868#81009#0" />
+                <element signature="e#81060#81330#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>useMutation</find>
+      <find>MenuProps</find>
+      <find>mode</find>
+      <find>content</find>
+      <find>Content</find>
+      <find>contentStyle1</find>
+      <find>cs1Div</find>
+      <find>desLabelStyle</find>
+      <find>img</find>
+      <find>items</find>
+      <find>gridStyle</find>
+      <find>middleContentStyle</find>
+      <find>!import</find>
+      <find>border</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mock/products.ts" />
+        <option value="$PROJECT_DIR$/src/pages/products.tsx" />
+        <option value="$PROJECT_DIR$/src/components/ProductList.tsx" />
+        <option value="$PROJECT_DIR$/src/pages/home.tsx" />
+        <option value="$PROJECT_DIR$/.umirc.ts" />
+        <option value="$PROJECT_DIR$/src/layouts/index.tsx" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="171" />
+    <option name="width" value="1879" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myapp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myapp" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ant-design-pro-landing-page" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="F:\localhost\react\myapp\node_modules\prettier" />
+    <property name="ts.external.directory.path" value="F:\localhost\react\myapp\node_modules\typescript\lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\localhost\react\myapp\src\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fb8f948-4246-46b1-aa95-2bf61c62d871" name="Default Changelist" comment="" />
+      <created>1684118792288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684118792288</updated>
+      <workItem from="1684118793381" duration="8576000" />
+      <workItem from="1684200792563" duration="61658000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="70234000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3036193" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="TypeScript" order="9" weight="0.28895184" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25637394" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Word Book" order="3" side_tool="true" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mock/products.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="12" column="2" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/.pnpm/registry.npmjs.org+antd@5.4.7_react-dom@17.0.2_react@17.0.2/node_modules/antd/es/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="67" column="38" selection-start-line="67" selection-start-column="29" selection-end-line="67" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/yay.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/typings.d.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/umi/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pnpm-lock.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@ant-design/pro-layout/es/ProLayout.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3875">
+          <caret line="165" column="2" lean-forward="true" selection-start-line="165" selection-start-column="2" selection-end-line="165" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ProductList.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.npmrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products.less">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/home.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/products.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/tabs/style/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/tabs/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/antd/es/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="112" column="54" lean-forward="true" selection-start-line="112" selection-start-column="54" selection-end-line="112" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/index.tsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="1710" selection-start-line="1710" selection-end-line="1710" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#319#531#0" expanded="true" />
+            <element signature="e#159#301#0" />
+            <element signature="e#367#446#0" />
+            <element signature="e#661#740#0" />
+            <element signature="e#1657#1765#0" />
+            <element signature="e#1858#1883#0" />
+            <element signature="e#1925#1950#0" />
+            <element signature="e#2061#2262#0" />
+            <element signature="e#2440#2541#0" />
+            <element signature="e#2841#2942#0" />
+            <element signature="e#2583#3990#0" />
+            <element signature="e#1536#3786#0" />
+            <element signature="e#1697#3018#0" />
+            <element signature="e#12171#12246#0" />
+            <element signature="e#12273#21380#0" />
+            <element signature="e#5951#12029#0" />
+            <element signature="e#21419#21593#0" />
+            <element signature="e#21650#21729#0" />
+            <element signature="e#21764#22599#0" />
+            <element signature="e#21776#22083#0" />
+            <element signature="e#13726#14141#0" />
+            <element signature="e#22688#23197#0" />
+            <element signature="e#23238#27093#0" />
+            <element signature="e#23316#23920#0" />
+            <element signature="e#28432#53619#0" />
+            <element signature="e#28677#28786#0" />
+            <element signature="e#28982#35874#0" />
+            <element signature="e#29056#29288#0" />
+            <element signature="e#28989#29612#0" />
+            <element signature="e#29653#29751#0" />
+            <element signature="e#30897#32442#0" />
+            <element signature="e#31568#31666#0" />
+            <element signature="e#32727#33144#0" />
+            <element signature="e#32002#32256#0" />
+            <element signature="e#32328#32506#0" />
+            <element signature="e#36196#43380#0" />
+            <element signature="e#43108#50292#0" />
+            <element signature="e#50022#57206#0" />
+            <element signature="e#50096#50292#0" />
+            <element signature="e#56935#64119#0" />
+            <element signature="e#54475#55238#0" />
+            <element signature="e#54603#54990#0" />
+            <element signature="e#55975#56569#0" />
+            <element signature="e#56700#56833#0" />
+            <element signature="e#57194#58653#0" />
+            <element signature="e#57206#57490#0" />
+            <element signature="e#57525#58281#0" />
+            <element signature="e#57536#58194#0" />
+            <element signature="e#58326#58516#0" />
+            <element signature="e#58711#60170#0" />
+            <element signature="e#58723#59007#0" />
+            <element signature="e#59047#59705#0" />
+            <element signature="e#60212#60496#0" />
+            <element signature="e#60531#61287#0" />
+            <element signature="e#60547#61205#0" />
+            <element signature="e#61320#61624#0" />
+            <element signature="e#61332#61522#0" />
+            <element signature="e#62066#62370#0" />
+            <element signature="e#65920#68068#0" />
+            <element signature="e#66007#66374#0" />
+            <element signature="e#68711#69079#0" />
+            <element signature="e#71415#71783#0" />
+            <element signature="e#75688#75829#0" />
+            <element signature="e#75568#75818#0" />
+            <element signature="e#76980#77121#0" />
+            <element signature="e#77172#77442#0" />
+            <element signature="e#78276#78417#0" />
+            <element signature="e#78468#78738#0" />
+            <element signature="e#79572#79713#0" />
+            <element signature="e#79764#80034#0" />
+            <element signature="e#80868#81009#0" />
+            <element signature="e#81060#81330#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.umirc.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="50" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="31" lean-forward="true" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
